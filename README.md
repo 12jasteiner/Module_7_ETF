@@ -1,5 +1,5 @@
 # Module_7_ETF
 ---
-##Application to analyze ETF portfolio (GDOT, PYPL, GS, SQ) using SQL.
+** Application to analyze ETF portfolio (GDOT, PYPL, GS, SQ) using SQL.
 ---
-[Find interactive Voila cumulative returns plot for porfolio here:][http://localhost:8866/voila/render/etf_analyzer.ipynb?]
+![Screenshot of interactive Voila cumulative returns plot for porfolio:](../Desktop/Fintech-Workspace/Module_7_ETF_Analyzer/Module_7_ETF/voila_screenshot.png)
